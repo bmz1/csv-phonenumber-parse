@@ -13,7 +13,6 @@
     "chalk": "^4.1.2",
     "csv-parser": "^3.0.0",
     "google-libphonenumber": "^3.2.25",
-    "mongodb": "^4.1.2",
     "yargs": "^17.2.1",
     "zx": "^4.2.0"
   },
